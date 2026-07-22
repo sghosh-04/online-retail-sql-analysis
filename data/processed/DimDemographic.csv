@@ -1,0 +1,14 @@
+GroupID,group,group2
+1,all,all
+2,gender,men
+3,gender,women
+4,income,richest 60%
+5,income,poorest 40%
+6,age_cat,age 25+
+7,age_cat,ages 15-24
+8,urbanicity,rural
+9,urbanicity,urban
+10,laborforce,out of laborforce
+11,laborforce,in laborforce
+12,education,secondary edu or more
+13,education,prim edu or less
